@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331792941192",
+    "project_id": "formlogin-307904",
+    "storage_bucket": "formlogin-307904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331792941192:android:2ed8a642a7a033d82b9f3d",
+        "android_client_info": {
+          "package_name": "com.example.PTSGENAP10RPL111"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331792941192-mu6gb5nhdhn52qisko0iiojg0cmg6ouc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSn5cd1o9Q7Z5GIBGb71E_GXdM3eJ7lUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331792941192-mu6gb5nhdhn52qisko0iiojg0cmg6ouc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
