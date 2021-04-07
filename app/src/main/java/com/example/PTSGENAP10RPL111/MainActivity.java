@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     LoginButton loginButton;
     private FirebaseAuth mAuth;
     // kita list semua object view yang sudah kita buat di layout
-    // hanya dikenakan oeprasi
+    // hanya dikenakan oprasi
     EditText txtemail;
     EditText txtpassword;
     Button btnlogin;
